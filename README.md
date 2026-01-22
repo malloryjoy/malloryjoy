@@ -1,7 +1,7 @@
 <img width="1300" height="390" alt="githubheader2" src="https://github.com/user-attachments/assets/13c8effd-96fa-4975-bffe-dedd9f81b3f5" />
 
 
-# :wave: Hi! I'm Mallory 
+# :wave: Hi! I'm Mallory. 
 
 I'm a front-end developer with a passion for all things tech. I love learning new things, whether it's a new framework or even an entire language! HTML and CSS are my bread-and-butter, but I'm excited to work with Javascript and Python. I enjoy all aspects of product development and engineering, but there's nothing I love more than taking things apart, seeing how they work, and putting them back together to create a masterpiece. With a positive attitude and a think-outside-the-box mindset, there's no puzzle I can't solve! 
 
