@@ -1,13 +1,13 @@
 <img width="1300" height="390" alt="githubheader2" src="https://github.com/user-attachments/assets/13c8effd-96fa-4975-bffe-dedd9f81b3f5" />
 
 
-# Hi, I'm Mallory :wave:
+# :wave: Hi! I'm Mallory 
 
 I'm a front-end developer with a passion for all things tech. I love learning new things, whether it's a new framework or even an entire language! HTML and CSS are my bread-and-butter, but I'm excited to work with Javascript and Python. I enjoy all aspects of product development and engineering, but there's nothing I love more than taking things apart, seeing how they work, and putting them back together to create a masterpiece. With a positive attitude and a think-outside-the-box mindset, there's no puzzle I can't solve! 
 
 <br />
 
-# Skills 🏹
+# 🏹 Skills 
 ### 🎮 Control Version | Content Management 
  
   ![Git][Git.io]
@@ -17,7 +17,7 @@ I'm a front-end developer with a passion for all things tech. I love learning ne
   
 
 
-###  💻 Front End
+### 💻 Front End 
 
   ![HTML][HTML.io]
   ![CSS][CSS.io] 
@@ -27,26 +27,26 @@ I'm a front-end developer with a passion for all things tech. I love learning ne
   ![Vite][Vite.io]
 
 
-### 🛠️ Back End
+### 🛠️ Back End  
   ![PHP][PHP.io] ![Python][Python.io]
 
 
-### 🎨 Design | Miscellany
+### 🎨 Design | Miscellany  
   ![Figma][Figma.io] ![Photoshop][Photoshop.io] ![Premiere][Premiere.io] ![Lightroom][Lightroom.io]
   
 
-# 👀 2026 Project Plans 
+# 👀 2026 Project Plans  
  🧀 Charcuterie Board Generator (Angular!) \
  👓 Hacked byNedry (Python!) \
  📚 Gilmore Girls Pinterest (React and API!)
 
 
- # 📊 My Stats
+ # 📊 My Stats 
  ![Mallory GitHub stats](https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=malloryjoy&layout=compact&langs_count=8&theme=algolia) ![Mallory GitHub Stats2](https://github-readme-stats-eight-theta.vercel.app/api?username=malloryjoy&show_icons=true&theme=algolia&include_all_commits=true&count_private=true)
 
 
 
-# 🪩 Let's Connect!
+# 🪩 Let's Connect!  
 [![LinkedIn][LinkedIn.io]][LinkedIn-url] [![Instagram][Instagram.io]][Instagram-url] [![Resume][Resume.io]][Resume-url] 
 
 <br >
