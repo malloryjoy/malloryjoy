@@ -97,7 +97,7 @@ I'm a front-end developer with a passion for all things tech. I love learning ne
 
 
 
-<b> 💳  ReadMe Inspiration:  <a href="https://github.com/clcmo">clcmo</a> | <a href="https://github.com/carol42">carol42</a> | <a href="https://github.com/anuraghazra/github-readme-stats">anuraghazra</a> </b>
+<b> 💳  ReadMe Inspiration:  <a href="https://github.com/clcmo">clcmo</a> | <a href="https://github.com/carol42">carol42</a> <a href="https://github.com/tolentinoel">tolentinoel</a> | <a href="https://github.com/anuraghazra/github-readme-stats">anuraghazra</a> </b>
 
 
 
