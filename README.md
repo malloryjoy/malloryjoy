@@ -35,19 +35,31 @@ I'm a front-end developer with a passion for all things tech. I love learning ne
   ![Figma][Figma.io] ![Photoshop][Photoshop.io] ![Premiere][Premiere.io] ![Lightroom][Lightroom.io]
   
 
-
 # 👀 2026 Project Plans 
-🧀 Charcuterie Board Generator (Angular!) <br />
-☝️ Hacked byNedry (Python!) <br />
-📚 Gilmore Girls Pinterest (React and API!) <br />
+ 🧀 Charcuterie Board Generator (Angular!) \
+ 👓 Hacked byNedry (Python!) \
+ 📚 Gilmore Girls Pinterest (React and API!)
 
+
+ # 📊 My Stats
+ ![Mallory GitHub stats](https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=malloryjoy&layout=compact&langs_count=8&theme=algolia) ![Mallory GitHub Stats2](https://github-readme-stats-eight-theta.vercel.app/api?username=malloryjoy&show_icons=true&theme=algolia&include_all_commits=true&count_private=true)
 
 
 
 # 🪩 Let's Connect!
-[![LinkedIn][LinkedIn.io]][LinkedIn-url] [![Instagram][Instagram.io]][Instagram-url]
+[![LinkedIn][LinkedIn.io]][LinkedIn-url] [![Instagram][Instagram.io]][Instagram-url] [![Resume][Resume.io]][Resume-url] 
 
-<!--Remaining To Dos : Upload photo and resume, link resume, get Project Plans in proper markdown format, Add GitHub stats section, shoutout clcmo and carol42 -->
+<br >
+<br >
+<br >
+<br >
+
+
+
+
+
+
+
 
 
 <!-- Badges? We don't need no stinkin' badges! -->
@@ -76,9 +88,16 @@ I'm a front-end developer with a passion for all things tech. I love learning ne
 
 
 [LinkedIn.io]: https://img.shields.io/badge/LinkedIn-5004b1?style=for-the-badge&logo=linkedin&logoColor=white
-[LinkedIn-URL]: https://www.typescriptlang.org/docs/
+[LinkedIn-URL]: https://www.linkedin.com/in/malloryjoy/
 [Instagram.io]: https://img.shields.io/badge/Instagram-6e05f3?style=for-the-badge&logo=instagram&logoColor=white
-[Instagram-URL]: https://www.typescriptlang.org/docs/
+[Instagram-URL]: https://www.instagram.com/malloryjoycreates/
+
+[Resume.io]: https://img.shields.io/badge/Download_My_Resume-5004b1?style=for-the-badge&logo=:D&logoColor=white
+[Resume-url]: https://malloryjoy.dev/assets/myResume.pdf
+
+
+
+<b> 💳  ReadMe Inspiration:  <a href="https://github.com/clcmo">clcmo</a> | <a href="https://github.com/carol42">carol42</a> | <a href="https://github.com/anuraghazra/github-readme-stats">anuraghazra</a> </b>
 
 
 
